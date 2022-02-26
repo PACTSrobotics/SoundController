@@ -1,0 +1,13 @@
+server:
+  port: 5005
+  address: 192.168.8.246
+robots:
+    dalek:
+        40: dog
+        12: beginning
+        16: emerge
+        18: exterminate
+        22: prepare
+        32: surviveinme
+    r2d2:
+        40: dog
